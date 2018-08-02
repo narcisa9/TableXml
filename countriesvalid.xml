@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+
+	<country zone="eastern">
+		<name native="România">Romania</name>
+		<language native="română">Romanian</language>
+		<currency code="RON">leu</currency>
+		<map_url>https://www.google.ro/maps/place/Romania/@45.9419466,25.0094305,7z/data=!3m1!4b1!4m2!3m1!1s0x40b1ff26958976c3:0x84ef4f92a804b194?hl=en</map_url>
+	</country>
+	
+	<country zone="western">
+		<name native="France">France</name>
+		<language native="français">French</language>
+		<currency code="EUR">Euro</currency>
+		<map_url>https://www.google.ro/maps/place/France/@46.2157467,2.2096957,6z/data=!3m1!4b1!4m2!3m1!1s0xd54a02933785731:0x6bfd3f96c747d9f7?hl=en</map_url>
+	</country>
+	
+	<country zone="western">
+		<name native="Nederland">Netherlands</name>
+		<language native="Nederlands">Dutch</language>
+		<currency code="EUR">Euro</currency>
+		<map_url>https://www.google.ro/maps/place/Netherlands/@52.2129919,5.2793703,8z/data=!3m1!4b1!4m2!3m1!1s0x47c609c3db87e4bb:0xb3a175ceffbd0a9f?hl=en</map_url>
+	</country>
+	
+	<country zone="eastern">
+		<name native="България">Bulgaria</name>
+		<language native="български">Bulgarian</language>
+		<currency code="BGN">лев</currency>
+		<map_url>https://www.google.ro/maps/place/Bulgaria/@42.7253401,25.4833039,8z/data=!3m1!4b1!4m2!3m1!1s0x40a8fec1c85bf089:0xa01269bf4c10?hl=en</map_url>
+	</country>
+	
+	<country zone="central">
+		<name native="Deutschland">Germany</name>
+		<language native="Deutsch">Germanian</language>
+		<currency code="EUR">Euro</currency>
+		<map_url>https://www.google.ro/maps/place/Germany/@51.1641175,10.4541194,6z/data=!3m1!4b1!4m2!3m1!1s0x479a721ec2b1be6b:0x75e85d6b8e91e55b?hl=en</map_url>
+	</country>
+	
+	<country zone="central">
+		<name native="Italia">Italy</name>
+		<language native="Italiano">Italian</language>
+		<currency code="EUR">Euro</currency>
+		<map_url>https://www.google.ro/maps/place/Italy/@41.2924601,12.5736108,6z/data=!3m1!4b1!4m2!3m1!1s0x12d4fe82448dd203:0xe22cf55c24635e6f?hl=en</map_url>
+	</country>
+	
+	<country zone="western">
+		<name native="Portugal">Portugal</name>
+		<language native="português">Portuguese</language>
+		<currency code="EUR">Euro</currency>
+		<map_url>https://www.google.ro/maps/place/Portugal/@39.557191,-7.8536599,7z/data=!3m1!4b1!4m2!3m1!1s0xb32242dbf4226d5:0x2ab84b091c4ef041?hl=en</map_url>
+	</country>
+	
+	<country zone="eastern">
+		<name native="Ελλάδα">Greece</name>
+		<language native="ελληνικά">Greek</language>
+		<currency code="EUR">Euro</currency>
+		<map_url>https://www.google.ro/maps/place/Greece/@38.2749497,23.8102717,7z/data=!3m1!4b1!4m2!3m1!1s0x135b4ac711716c63:0x363a1775dc9a2d1d?hl=en</map_url>
+	</country>
+	
+</countries>
